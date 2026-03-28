@@ -64,7 +64,6 @@ The app is built to demonstrate core concepts in health economics, including **M
 ├── plots/
 │   ├── survival_plot.R       # Survival curve visualization
 │
-├── data/                     # (Optional) Input datasets
 ├── README.md                 # Project documentation
 ```
 
@@ -167,15 +166,6 @@ ICER = \frac{Cost_{Treatment} - Cost_{Comparator}}{QALY_{Treatment} - QALY_{Comp
 * Simplified assumptions for demonstration purposes
 * Not intended for clinical decision-making without validation
 * Model inputs may not reflect real-world data
-
----
-
-## Future Improvements
-
-* Integration with real-world datasets
-* More complex survival models (e.g., parametric survival fitting)
-* Multi-treatment comparisons
-* Exportable reports (PDF/HTML)
 
 ---
 
