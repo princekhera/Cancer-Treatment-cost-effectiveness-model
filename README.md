@@ -141,9 +141,7 @@ Or open `app.R` in RStudio and click **Run App**.
 
 ### ICER Calculation
 
-[
-ICER = \frac{Cost_{Treatment} - Cost_{Comparator}}{QALY_{Treatment} - QALY_{Comparator}}
-]
+ICER = (Cost_Treatment − Cost_Comparator) / (QALY_Treatment − QALY_Comparator)
 
 ### Probabilistic Sensitivity Analysis
 
