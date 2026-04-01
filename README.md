@@ -172,9 +172,3 @@ ICER = (Cost_Treatment − Cost_Comparator) / (QALY_Treatment − QALY_Comparato
 **Prince Khera**
 MSc Health Data Science
 Focus: Health Economics, Machine Learning, and Data Analytics
-
----
-
-## License
-
-This project is for educational and research purposes.
